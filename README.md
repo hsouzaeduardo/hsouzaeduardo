@@ -5,6 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/hsouzaeduardo)](https://twitter.com/hsouzaeduardo)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=for-the-badge&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/hsouzaeduardo81/)](https://www.instagram.com/hsouzaeduardo81/)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white&link=https://www.youtube.com/c/HenriqueEduardodev)](https://www.youtube.com/c/HenriqueEduardodev)
+[![YouTube Badge](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@hsouza.eduardo)](https://medium.com/@hsouza.eduardo)
 
 💬 Sobre Mim
 

@@ -11,7 +11,7 @@
 
 Especialista em Soluções distribuídas e Cloud Computing | Pós-graduado em Engenharia de Software | Solution Architect
 
-Atuando há 22 anos com softwares para web, Mobile, Cloud, IoT, IIoT, e softwares embarcados. 
+Atuando há 25 anos com softwares para web, Mobile, Cloud, IoT, IIoT, e softwares embarcados. 
 
 Instrutor Oficial Microsoft há 10 anos, apaixonado por tecnologia, inovação e defensor de que um bom feedback constrói gigantes.
 

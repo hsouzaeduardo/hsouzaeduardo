@@ -9,7 +9,7 @@
 
 💬 Sobre Mim
 
-Especialista em Soluções distribuídas e Cloud, pós-graduado nas FASP em Engenharia de Software, MBA em Arquitetura de Soluções. Atuando há 22 anos com softwares para web, Mobile, Cloud, IoT, IIoT, e softwares embarcados. Atualmente atuando como Gerente de Arquitetura e inteligência Artificial . Instrutor Oficial Microsoft há mais de 10 anos, Microsoft MVP e apaixonado por tecnologia, inovação e defensor de que um bom feedback constrói gigantes e que todos merecem oportunidades e criador da fórmula:
+Especialista em Soluções distribuídas e Cloud, pós-graduado em Engenharia de Software, MBA em Arquitetura de Soluções e Dados &IA. Atuando há 25 anos com softwares para web, Mobile, Cloud, IoT, IIoT, e softwares embarcados. Atualmente atuando como Gerente de Arquitetura e inteligência Artificial . Instrutor Oficial Microsoft há mais de 10 anos, Microsoft MVP e apaixonado por tecnologia, inovação e defensor de que um bom feedback constrói gigantes e que todos merecem oportunidades e criador da fórmula:
 
 R = (T + D + TD)²
 
